@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Smart AutoSense - AI-Powered Vehicle Maintenance System
 
 <div align="center">
@@ -236,4 +237,5 @@ For issues, questions, or suggestions, please open an issue on GitHub or contact
   <p><strong>Built for Hackathons • Ready for Production</strong></p>
   <p>🚗 Smart AutoSense - Keeping Your Vehicle Safe, One Sensor at a Time 🚗</p>
 </div>
+
 
